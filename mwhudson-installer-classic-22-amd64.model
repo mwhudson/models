@@ -1,0 +1,45 @@
+type: model
+authority-id: 9XoOBkC2zdzx5CVZdl0ZVYuLpCo15ww0
+series: 16
+brand-id: 9XoOBkC2zdzx5CVZdl0ZVYuLpCo15ww0
+model: mwhudson-installer-classic-22-amd64
+architecture: amd64
+base: core22
+classic: true
+distribution: ubuntu
+grade: signed
+snaps:
+  -
+    default-channel: latest/stable
+    id: amcUKQILKXHHTlmSa7NMdnXSx02dNeeT
+    name: core22
+    type: base
+  -
+    default-channel: latest/stable
+    id: DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q
+    name: core20
+    type: base
+  -
+    default-channel: latest/edge/xinyi-22.04
+    id: PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
+    name: snapd
+    type: snapd
+  -
+    classic: true
+    default-channel: latest/stable/xinyi-22.04
+    id: ba2aj8guta0zSRlT3QM5aJNAUXPlBtf9
+    name: subiquity
+    type: app
+timestamp: 2023-03-23T02:52:31+00:00
+sign-key-sha3-384: fNFleud7ybashI2qf3nX9yNJVmw0MKzL1WP3cgbcam7afyvb7qQQ-FNLLlqeEUu1
+
+AcLBcwQAAQoAHRYhBAyetie0JprXTl6pYhQ20gLe50w0BQJkG78PAAoJEBQ20gLe50w0iO4P/jED
+Apd/AJAWP46OIRMeJwWwCY/Jb7pOGTKnPxBJjY+AfhZPrlPXLcnJCZkX8sbfOLv9XXn9NJjHYtKY
+19cahHGHUw3oMBNNIOv5my346mfV0SZIKBZFoaK00BWP6JzMpqWZvSP4BOc+UlzR1IhAOB50sV7A
+FPZGriVsgthtHI24nQg5lKkXr7sHVUKEvhonfsEDDbrW/PTZw6P+nYVIQ7gJA2umgFs/VIsLtGod
+Wip/8nnP+OOz+43poj8m3jL9lqVjIoHH8vfDJy5FTy9/7zNFr1z1HyZl654PZfkgoEmoe0DtKsKj
+Ijb9pTX9eCXazLwGdWc3PYBkyumlobrV35P2cI/C2DznfkH4yjA8OI8D+T7ZREWwL06zPRWietB4
+4Rlj6VN9MntYK0H02gjgIIWNpq/PDpwJJb7Jmii6EaLIj2+gcBnlaOL/Tko5otKBDlT2fHi56ikf
+DZawBmn8qmEBaTHXlDgS/PxUCBFr8Lz7cJxnJzc8fzyQB6T3sBUndk1KcPk7gIKy60vf9gqZoYM/
+L+3rC6KUgY5XxQeO5A47TrY1r9a9lvGRSDuE99A4qERhCXQ3dZ7e5mrjGp2lRZtFI7PbMbeREeYM
+xgLZhBVfB/nx0EYlPmxn1Idr2xrnfP7+qf42rWvj9Gj8wSkzoICQuaAmLUZhDcoYufcah73i
